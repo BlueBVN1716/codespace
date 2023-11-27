@@ -1,0 +1,7 @@
+{
+  "name": "Ubuntu Codespace",
+  "dockerFile": "Dockerfile",
+  "settings": {},
+  "extensions": [],
+  "postCreateCommand": "sudo service ssh start"
+}
